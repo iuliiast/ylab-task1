@@ -29,7 +29,7 @@ function App() {
 		<>
 			<div className="main">
 				<div className="title">
-					<img src="/src/assets/ylab.png" />
+					<img src="/ylab.png" />
 					<h2>Sign in</h2>
 				</div>
 				<div>
